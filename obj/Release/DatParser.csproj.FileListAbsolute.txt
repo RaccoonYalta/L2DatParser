@@ -1,0 +1,10 @@
+C:\Users\teraw\source\repos\DatParser\bin\Release\DatParser.exe.config
+C:\Users\teraw\source\repos\DatParser\bin\Release\DatParser.exe
+C:\Users\teraw\source\repos\DatParser\bin\Release\DatParser.pdb
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.csproj.AssemblyReference.cache
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.Form1.resources
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.Properties.Resources.resources
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.csproj.GenerateResource.cache
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.csproj.CoreCompileInputs.cache
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.exe
+C:\Users\teraw\source\repos\DatParser\obj\Release\DatParser.pdb
