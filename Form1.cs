@@ -552,8 +552,12 @@ namespace DatParser
                         if (wordsAfter.Length > 0) count2 = "4";
                         else count2 = "1";
 
-                        DatValue = count1 + "\t" + wordsBefore + "\t";
+                        DatValue = count1 + "\t" + wordsBefore;
+                        for (int i = 4; i >= countBefore; i--)
+                            DatValue += "\t";
                         DatValue += count2 + "\t" + wordsAfter;
+                        for (int i = 4; i >= countAfter; i--)
+                            DatValue += "\t";
                     }
                     else
                     {
